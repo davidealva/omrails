@@ -6,6 +6,7 @@ gem 'devise'
 gem 'simple_form'
 gem "paperclip", "~> 3.0"
 gem 'aws-sdk'
+gem 'faker'
 
 group :production do
   gem 'pg'
@@ -14,7 +15,6 @@ end
 group :development, :test do
   gem 'sqlite3'
 end
-
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
