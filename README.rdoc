@@ -1,6 +1,5 @@
-# One Month Rails
+# Pinboard Application 
+This is the sample Pinboard application for 
+[*Can Be found here*](http://young-brushlands-6927.herokuapp.com/)
 
-This is the sample application for 
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
-
-by [Mattan Griffel](http://mattangriffel.com)
+by [David Alvarado](http://da.madebydiesel.com)
