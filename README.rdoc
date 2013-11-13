@@ -1,5 +1,7 @@
 # Pinboard Application 
-This is the sample Pinboard application for 
-[*Can Be found here*](http://young-brushlands-6927.herokuapp.com/)
+This is the sample Pinboard application similar to a Pinterest. Utilizes Heroku, AWS, and jQuery.
 
-by [David Alvarado](http://da.madebydiesel.com)
+http://young-brushlands-6927.herokuapp.com
+
+by David Alvarado  
+http://da.madebydiesel.com
